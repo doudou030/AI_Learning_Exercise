@@ -3,3 +3,4 @@
 
 - ML : Machine Learning
 - DL : Deep Learning
+- summer_vocation_practice_2024 : 2024讀書會的練習題目
